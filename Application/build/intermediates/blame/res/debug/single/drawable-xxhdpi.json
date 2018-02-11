@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher1.png",
+        "source": "/home/mikeho/BluetoothLeGatt/Application/src/main/res/drawable-xxhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/mikeho/BluetoothLeGatt/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]

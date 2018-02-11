@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

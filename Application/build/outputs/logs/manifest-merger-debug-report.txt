@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:1-53:12
+	package
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:21:5-50
+	android:versionName
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:23:5-30
+		INJECTED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:22:5-28
+		INJECTED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:34:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:36:5-78
+	android:name
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:36:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:37:5-80
+	android:name
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:37:22-78
+application
+ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:39:5-51:19
+MERGED from [com.android.support:support-v13:25.3.1] /home/mikeho/.android/build-cache/46804be8f244f6171fd53a43a2d0a5b19487dda8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/mikeho/.android/build-cache/b3ceeadd9b424117e4d46e05a8afe72e0c01fb1c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/mikeho/.android/build-cache/5d67419fdb3f963668194574e28a7d3fe6819b1b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mikeho/.android/build-cache/af262a2af330b050e2c770e5dab49acb11f2250b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mikeho/.android/build-cache/75cc54e46b380f2de89cdb3ebb8214fc7c0e8e7b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mikeho/.android/build-cache/70b81d43776900368bb6b33c409cdf3dee50bba8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mikeho/.android/build-cache/3ef985a93ea1ea25a67939b0055825beb5a6dc52/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mikeho/.android/build-cache/bf2fa1440b4ac2549de4660d615893bd60ccc339/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mikeho/.android/build-cache/61c78fdf344b41c3ade138c022ee067cf9ddcbdb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/mikeho/.android/build-cache/8072ed6e36c94b8d1cf8dc00f75d17a48126465c/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:39:18-50
+	android:icon
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:40:9-45
+	android:theme
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:41:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:42:9-48:20
+	android:label
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:42:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:45:17-68
+	android:name
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:46:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:49:9-58
+	android:name
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:49:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:50:9-77
+	android:enabled
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:50:53-75
+	android:name
+		ADDED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:50:18-52
+uses-sdk
+INJECTED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] /home/mikeho/.android/build-cache/46804be8f244f6171fd53a43a2d0a5b19487dda8/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/mikeho/.android/build-cache/b3ceeadd9b424117e4d46e05a8afe72e0c01fb1c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/mikeho/.android/build-cache/5d67419fdb3f963668194574e28a7d3fe6819b1b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mikeho/.android/build-cache/af262a2af330b050e2c770e5dab49acb11f2250b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mikeho/.android/build-cache/75cc54e46b380f2de89cdb3ebb8214fc7c0e8e7b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mikeho/.android/build-cache/70b81d43776900368bb6b33c409cdf3dee50bba8/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mikeho/.android/build-cache/3ef985a93ea1ea25a67939b0055825beb5a6dc52/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mikeho/.android/build-cache/bf2fa1440b4ac2549de4660d615893bd60ccc339/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mikeho/.android/build-cache/61c78fdf344b41c3ade138c022ee067cf9ddcbdb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/mikeho/.android/build-cache/8072ed6e36c94b8d1cf8dc00f75d17a48126465c/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] /home/mikeho/.android/build-cache/46804be8f244f6171fd53a43a2d0a5b19487dda8/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/mikeho/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] /home/mikeho/.android/build-cache/46804be8f244f6171fd53a43a2d0a5b19487dda8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/mikeho/.android/build-cache/b3ceeadd9b424117e4d46e05a8afe72e0c01fb1c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/mikeho/.android/build-cache/5d67419fdb3f963668194574e28a7d3fe6819b1b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mikeho/.android/build-cache/af262a2af330b050e2c770e5dab49acb11f2250b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mikeho/.android/build-cache/75cc54e46b380f2de89cdb3ebb8214fc7c0e8e7b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mikeho/.android/build-cache/70b81d43776900368bb6b33c409cdf3dee50bba8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mikeho/.android/build-cache/3ef985a93ea1ea25a67939b0055825beb5a6dc52/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mikeho/.android/build-cache/bf2fa1440b4ac2549de4660d615893bd60ccc339/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mikeho/.android/build-cache/61c78fdf344b41c3ade138c022ee067cf9ddcbdb/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/mikeho/.android/build-cache/8072ed6e36c94b8d1cf8dc00f75d17a48126465c/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] /home/mikeho/.android/build-cache/46804be8f244f6171fd53a43a2d0a5b19487dda8/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] /home/mikeho/.android/build-cache/46804be8f244f6171fd53a43a2d0a5b19487dda8/output/AndroidManifest.xml:26:9-47

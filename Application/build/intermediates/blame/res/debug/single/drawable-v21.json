@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/mikeho/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/mikeho/.android/build-cache/558827251f6537d346a2f24b5584013c1d9338c6/output/res/drawable-v21/notification_action_background.xml"
+    }
+]
